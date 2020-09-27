@@ -16,4 +16,5 @@ This landing page was made with:
 
 ***
 
-# Photos
+![Tennesse Weslyan](Tennesse-Weslyan-1.png)
+![Tennesse Weslyan](Tennesse-Weslyan-2.png)
